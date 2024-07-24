@@ -6,7 +6,9 @@
   <br/> 
 
 👁️‍🗨️ habilidades:
+ <br/> 
 -Espanhol: Intermediário 
+ <br/> 
 -Inglês: Básico 
 -Cabeamento de rede  
 -Instalação Linux e Windowa
