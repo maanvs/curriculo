@@ -1,5 +1,5 @@
 ## Meu currículo 
-> [!informações]
+
 >  Maria Eduarda Neves, 16 anos 
   estado: sp 
  
