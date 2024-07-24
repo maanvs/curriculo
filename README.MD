@@ -5,7 +5,7 @@
  
 
 👁️‍🗨️ habilidades:
-Espanhol: Intermediário 
+>Espanhol: Intermediário 
 Inglês: Básico 
 Cabeamento de rede  
 Instalação Linux e Windowa
