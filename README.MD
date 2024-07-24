@@ -2,7 +2,9 @@
 > [!informações]
 >  Maria Eduarda Neves, 16 anos 
   estado: sp 
- 👁️‍🗨️ habilidades:
+ 
+
+👁️‍🗨️ habilidades:
 Espanhol: Intermediário 
 Inglês: Básico 
 Cabeamento de rede  
