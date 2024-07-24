@@ -22,4 +22,5 @@
 -Criação de páginas com linguagem de marcação (HTML)
  <br/> 
 -Python
+ <br/> 
 -habilidades com o canva e pacote da microsoft office completo  
