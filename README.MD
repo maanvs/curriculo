@@ -24,3 +24,4 @@
 -Python
  <br/> 
 -habilidades com o canva e pacote da microsoft office completo  
+
