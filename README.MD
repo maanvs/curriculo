@@ -10,10 +10,16 @@
 -Espanhol: Intermediário 
  <br/> 
 -Inglês: Básico 
--Cabeamento de rede  
+ <br/> 
+-Cabeamento de rede
+ <br/> 
 -Instalação Linux e Windowa
+ <br/> 
 -Criação de maquinas virtuais 
--Requisitos 
+ <br/> 
+-Requisitos
+ <br/> 
 -Criação de páginas com linguagem de marcação (HTML)
+ <br/> 
 -Python
 -habilidades com o canva e pacote da microsoft office completo  
