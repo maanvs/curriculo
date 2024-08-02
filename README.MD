@@ -7,7 +7,7 @@
 
 👁️‍🗨️ habilidades:
  <br/> 
--Espanhol: Intermediário 
+-Espanhol: Básico
  <br/> 
 -Inglês: Básico 
  <br/> 
